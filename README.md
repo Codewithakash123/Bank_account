@@ -1,1 +1,1 @@
-# Bank_account
+ Bank Account system implemented using Object-Oriented Programming (OOP) concepts in Python. It demonstrates the use of classes, constructors, attributes, and methods to simulate basic banking operations such as deposit, withdrawal, and balance display. Multiple objects are created to represent different users, helping to understand how OOP models real-world scenarios.
